@@ -3,7 +3,7 @@ Article Dataset Generator for Internet News Sites. Crawls news sites, analyses t
 
 
 # Our solution
-A social gamified platform to enable and encourage collaborative fact-checking, with the use of Natural Language processing to provide an initial estimate of the legitimacy of articles. We will also use the generated labeled dataset to improve future fact checking algorithms.
+A social gamified platform to enable and encourage collaborative fact-checking, with the use of Natural Language Processing to provide an initial estimate of the legitimacy of articles. We will also use the platform to generate a labelled dataset to improve future fact-checking algorithms.
 
 ## The issue
 Almost all news outlets have digital editors that push the content through social media, which feature a comment thread. News websites sometimes have a comment section at the end of the article. These comments allow users to interact with each other, giving reading a social element and allow the content to compete in the news market. However, as entertaining as the comment thread may be, there is limited use in determining the truth value of the news. In news sites with an agenda, comments that support the agenda are highly rated by similar users. There is no place to point out the factual inaccuracies of the article, which will be filtered out. This reinforces the filter bubbles, polarising the society.
